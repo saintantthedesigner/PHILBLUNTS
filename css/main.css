@@ -81,7 +81,7 @@ small,
 
 .headline::before {
   content: "";
-  background: #f7941e;
+  background: #9ff063;
   width: 580px;
   height: 2px;
   position: absolute;
@@ -110,7 +110,7 @@ small,
 }
 
 a {
-  color: #f7941e;
+  color: #9ff063;
 }
 
 a:hover,
@@ -148,8 +148,8 @@ section {
 }
 
 .btn-primary {
-  background: #f7941e;
-  border: 2px solid #f7941e;
+  background: #9ff063;
+  border: 2px solid #9ff063;
   padding: 6px 30px;
   font-family: "Changa One", cursive;
   color: #fff;
@@ -162,17 +162,17 @@ section {
 .btn-primary:active,
 .btn-primary:focus {
   background: transparent;
-  border: 2px solid #f7941e;
-  color: #f7941e;
+  border: 2px solid #9ff063;
+  color: #9ff063;
   transition: all 1s;
 }
 
 .btn-secondary {
   background: transparent;
-  border: 2px solid #f7941e;
+  border: 2px solid #9ff063;
   padding: 6px 30px;
   font-family: "Changa One", cursive;
-  color: #f7941e;
+  color: #9ff063;
   font-size: 20px;
   border-radius: 0;
 }
@@ -180,8 +180,8 @@ section {
 .btn-secondary:hover,
 .btn-secondary:active,
 .btn-secondary:focus {
-  background: #f7941e;
-  border: 2px solid #f7941e;
+  background: #9ff063;
+  border: 2px solid #9ff063;
   color: #fff;
   transition: all 1s;
 }
@@ -256,20 +256,20 @@ nav.nav-center ul.navbar-nav li a {
 nav.nav-center ul.navbar-nav li a:hover,
 nav.nav-center ul.navbar-nav li a:active,
 nav.nav-center ul.navbar-nav li a:focus {
-  color: #f7941e;
+  color: #9ff063;
   transition: 1s;
 }
 
 nav.nav-center ul.navbar-nav li.active a {
   background: transparent;
-  color: #f7941e;
+  color: #9ff063;
 }
 
 nav.nav-center ul.navbar-nav li.active a:hover,
 nav.nav-center ul.navbar-nav li.active a:active,
 nav.nav-center ul.navbar-nav li.active a:focus {
   background: transparent;
-  color: #f7941e;
+  color: #9ff063;
   transition: 1s;
 }
 
